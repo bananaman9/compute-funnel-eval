@@ -1,0 +1,8 @@
+{
+  "quota_seconds": 3600,
+  "startup_seconds": 300,
+  "case_seconds": 45,
+  "multiplier": 2,
+  "pending_cases": 50,
+  "verified_answers": 7
+}

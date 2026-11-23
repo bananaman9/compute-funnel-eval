@@ -1,0 +1,8 @@
+{
+  "quota_seconds": 108000,
+  "duration_seconds": 1800,
+  "multiplier": 2,
+  "age_days": 45,
+  "verified": true,
+  "good_standing": true
+}

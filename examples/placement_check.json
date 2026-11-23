@@ -1,0 +1,28 @@
+{
+  "required_gib": 52,
+  "load_minutes": 10,
+  "task_minutes": 25,
+  "offers": {
+    "single_96g_gpu": {
+      "devices": 1,
+      "memory_per_gpu_gib": 96,
+      "window_minutes": 60,
+      "programmable": true,
+      "runtime_supported": true
+    },
+    "split_48g_node": {
+      "devices": 1,
+      "memory_per_gpu_gib": 48,
+      "window_minutes": 120,
+      "programmable": true,
+      "runtime_supported": true
+    },
+    "short_window_spot": {
+      "devices": 1,
+      "memory_per_gpu_gib": 96,
+      "window_minutes": 20,
+      "programmable": true,
+      "runtime_supported": true
+    }
+  }
+}
